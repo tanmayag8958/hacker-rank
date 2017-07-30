@@ -10,14 +10,14 @@ import java.util.*;
 }
 
 class FamilyMember {
-   @FamilyBudget(userRole="seniorMember",budget=100)
+   @FamilyBudget(userRole="SENIOR",budget=100)
    public void seniorMember(int budget, int moneySpend) {
       System.out.println("Senior Member");
       System.out.println("Spend: " + moneySpend);
       System.out.println("Budget Left: " + (budget - moneySpend));
    }
 
-   @FamilyBudget(userRole="juniorUser",budget=50)
+   @FamilyBudget(userRole="JUNIOR",budget=50)
    public void juniorUser(int budget, int moneySpend) {
       System.out.println("Junior Member");
       System.out.println("Spend: " + moneySpend);
@@ -25,7 +25,7 @@ class FamilyMember {
    }
 }
 
-public class Solution {
+class Solution {
    public static void main(String[] args) {
       Scanner in = new Scanner(System.in);
       int testCases = Integer.parseInt(in.nextLine());
