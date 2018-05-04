@@ -1,15 +1,23 @@
 # Solution for Ruby
----
 
-|   | Problem Name | Test (Pass/Fail) | Contributor |  
-|---|--------------|------------------|-------------|  
-| 1 |              |                  |             |  
-| 2 |              |                  |             |  
-| 3 |              |                  |             |  
-| 4 |              |                  |             |  
-| 5 |              |                  |             |  
-| 6 |              |                  |             |  
-| 7 |              |                  |             |  
-| 8 |              |                  |             |  
-| 9 |              |                  |             |  
-| 10|              |                  |             |  
+## Developers and Contributors for hell-sing/hacker-rank/Ruby
+
+|   |   Developer    |  Language |  Rank/Badge  |
+|---|----------------|-----------|--------------|
+| 1 | Abhishek Verma |    Ruby   |      1       |
+
+## How to Contribute?
+```
+- Fork the repository hell-sing/hacker-rank.
+- Clone the repository into your local machine.
+- Update/Amend the code and push code to GitHub.
+- Generate the pull-request.
+```
+
+* Happy to accept any pull requests if you want to add a valid solution in your favorite language or sub-domains.
+
+* To contribute to this repository generate pull-request and mention your Github and Email in each code using comments.
+
+* Program name should be same as the problem name on hacker-rank with language extension.
+
+* For any update in the pre-build solution generate the issue.
